@@ -1,7 +1,7 @@
 # polbazaar.com
 
 Coming soon page for PolBazaar, Amdavad's own bazaar. It counts down to the launch on
-**Wednesday 11 November 2026, 11:11 AM IST** and is served by GitHub Pages on `polbazaar.com`.
+**Friday 1 January 2027, 11:11 AM IST** and is served by GitHub Pages on `polbazaar.com`.
 
 | File | What it is |
 | --- | --- |
